@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ContaTerminal {
+public class ContaTerminalDanilo {
 
         // Método main para interação com o usuário via terminal
     public static void main(String[] args) throws Exception {
